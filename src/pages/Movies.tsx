@@ -5,7 +5,7 @@ const Movies = data.MovieData;
 function MovieList() {
   return (
     <>
-      <div className="text-center">
+      <div className="text-center p-1 m-1">
         <h1>Joel Hilton's Movie Collection</h1>
       </div>
       <table className="table m-2 p-2">
